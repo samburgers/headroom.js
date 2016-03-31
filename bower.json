@@ -1,6 +1,6 @@
 {
   "name": "headroom.js",
-  "main": ["dist/headroom.js", "dist/jQuery.headroom.js", "dist/angular.headroom.js"],
+  "main": ["dist/Headroom.js", "dist/jQuery.headroom.js", "dist/angular.headroom.js"],
   "ignore": [
     "**/.*",
     "node_modules",
